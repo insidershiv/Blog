@@ -1,0 +1,8 @@
+{
+    "require": {
+        "google/apiclient": "^2.4",
+        "firebase/php-jwt": "^5.2",
+        "respect/validation": "^2.0",
+        "tgalopin/html-sanitizer": "^1.4"
+    }
+}
